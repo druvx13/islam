@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Jan 2026 16:12:49 at https://sacred-texts.com/isl/index.htm +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sacred-texts.com/isl/index.htm -O1 "C:\DK-SITES\islam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:43:18	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://s7.addthis.com/static/btn/v2/lg-share-en.gif (from https://sacred-texts.com/isl/index.htm)
+16:43:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://s7.addthis.com/js/250/addthis_widget.js (from https://sacred-texts.com/isl/index.htm)
+17:47:40	Error: 	Exit requested by shell or user
+17:47:40	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/bukhari/bh4/bh4_35.htm
+17:47:42	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif (from https://sacred-texts.com/isl/omy/index.htm)
+17:53:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://s7.addthis.com/static/btn/v2/lg-share-en.gif (from https://sacred-texts.com/isl/index.htm)
+17:53:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://s7.addthis.com/js/250/addthis_widget.js (from https://sacred-texts.com/isl/index.htm)
+17:55:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sacred-texts.com/isl/quran/04307.htm (from https://sacred-texts.com/isl/quran/04401.htm)
+17:55:10	Warning: 	Retry after error -4 (Connect Error) at link https://sacred-texts.com/isl/quran/04402.htm (from https://sacred-texts.com/isl/quran/04401.htm)
+17:55:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sacred-texts.com/isl/gif/044/044_002.gif (from https://sacred-texts.com/isl/quran/04401.htm)
+17:55:10	Warning: 	Retry after error -4 (Connect Error) at link https://sacred-texts.com/isl/gif/044/044_003.gif (from https://sacred-texts.com/isl/quran/04401.htm)
+17:55:10	Warning: 	Retry after error -4 (Connect Error) at link https://sacred-texts.com/isl/gif/044/044_004.gif (from https://sacred-texts.com/isl/quran/04401.htm)
+18:03:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sacred-texts.com/isl/bukhari/bh3/bh3_614.htm (from https://sacred-texts.com/isl/bukhari/bh3/index.htm)
+18:03:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sacred-texts.com/isl/bukhari/bh3/bh3_615.htm (from https://sacred-texts.com/isl/bukhari/bh3/index.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif (from https://sacred-texts.com/isl/omy/index.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://s7.addthis.com/static/btn/v2/lg-share-en.gif
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://s7.addthis.com/static/btn/v2/lg-share-en.gif (from https://sacred-texts.com/isl/index.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://s7.addthis.com/js/250/addthis_widget.js
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://s7.addthis.com/js/250/addthis_widget.js (from https://sacred-texts.com/isl/index.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/quran/04307.htm
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://sacred-texts.com/isl/quran/04307.htm (from https://sacred-texts.com/isl/quran/04401.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/quran/04402.htm
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://sacred-texts.com/isl/quran/04402.htm (from https://sacred-texts.com/isl/quran/04401.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/gif/044/044_002.gif
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://sacred-texts.com/isl/gif/044/044_002.gif (from https://sacred-texts.com/isl/quran/04401.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/gif/044/044_003.gif
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://sacred-texts.com/isl/gif/044/044_003.gif (from https://sacred-texts.com/isl/quran/04401.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/gif/044/044_004.gif
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://sacred-texts.com/isl/gif/044/044_004.gif (from https://sacred-texts.com/isl/quran/04401.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/bukhari/bh3/bh3_614.htm
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://sacred-texts.com/isl/bukhari/bh3/bh3_614.htm (from https://sacred-texts.com/isl/bukhari/bh3/index.htm)
+18:04:27	Warning: 	File not added due to mirror cancel: https://sacred-texts.com/isl/bukhari/bh3/bh3_615.htm
+18:04:27	Error: 	"mirror stopped by user" (-1) at link https://sacred-texts.com/isl/bukhari/bh3/bh3_615.htm (from https://sacred-texts.com/isl/bukhari/bh3/index.htm)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 51 minutes 38 seconds : 7257 links scanned, 7234 files written (72794734 bytes overall) [36006701 bytes received at 5375 bytes/sec], 65888496 bytes transferred using HTTP compression in 5543 files, ratio 33%, 120.6 requests per connection
+(11 errors, 23 warnings, 0 messages)
