@@ -17,6 +17,7 @@ The complete text includes all 114 chapters (Surahs) of the Qur'an:
 - [Start Reading](001.html) - Begin with Chapter 1: al-Fatihah (The Opening)
 - [Full Index](index.html) - View complete table of contents
 - [Text Version](pick.txt.gz) - Download compressed text file
+- [Download Complete Website](Pickthall.zip) - Download entire website as ZIP archive (952 KB)
 
 ## Structure
 
@@ -24,6 +25,7 @@ The complete text includes all 114 chapters (Surahs) of the Qur'an:
 - **001.html - 114.html** - Individual chapter files
 - **css/** - Stylesheets
 - **cdshop/** - Images and resources
+- **Pickthall.zip** - Complete website archive for offline download
 
 ## Navigation
 
