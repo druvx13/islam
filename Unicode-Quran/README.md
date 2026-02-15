@@ -36,7 +36,7 @@ The IPA transliteration is NOT a pronunciation guide. Rather, it is a mechanical
 
 ## Typography
 
-This website uses the **Amiri font** (أميري), a classical Arabic typeface in Naskh style designed specifically for typesetting the Qur'an. Amiri is a revival of the beautiful typeface pioneered by Bulaq Press (Amiria Press) in early 20th century Cairo.
+This website uses the **Amiri font** (أميري), a classical Arabic typeface in Naskh style designed specifically for typesetting the Quran. Amiri is a revival of the beautiful typeface pioneered by Bulaq Press (Amiria Press) in early 20th century Cairo.
 
 The Amiri font is included in the `fonts/` directory and is automatically loaded when you view the website. The font is licensed under the [SIL Open Font License (OFL)](fonts/OFL.txt), making it free to use and distribute.
 
