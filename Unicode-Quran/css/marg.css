@@ -43,3 +43,34 @@ td[width="50%"]:first-child {
 span.margnote {position: absolute; left: 1%; right: 81%;}
 span.rmargnote {position: absolute; left: 81%; right: 100%;}
 span.contnote {position: absolute; left: 81%; right: 100%;}
+
+/* Cross-translation navigation bar styling */
+.translation-nav {
+  background-color: #f5f5f5;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.translation-nav p {
+  margin: 5px 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.translation-nav a {
+  color: #0066cc;
+  text-decoration: none;
+  padding: 0 8px;
+}
+
+.translation-nav a:hover {
+  color: #003d7a;
+  text-decoration: underline;
+}
+
+.translation-nav b {
+  color: #333;
+  padding: 0 8px;
+}
