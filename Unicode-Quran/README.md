@@ -9,9 +9,11 @@ This is an independent website presenting the complete Holy Qur'an in Unicode Ar
 - **xlit.html** - Transliteration table explaining the IPA system used
 - **arabic.jpg** - Arabic calligraphy image
 - **css/marg.css** - Stylesheet for the website
+- **fonts/** - Directory containing Amiri font files for beautiful Arabic typography
 
 ## Features
 
+- **Amiri Font**: Uses the beautiful Amiri typeface, a classical Arabic font in Naskh style specifically designed for Quranic text
 - **Unicode Arabic Text**: The Qur'an is displayed using Unicode characters for proper Arabic rendering
 - **IPA Transliteration**: Each verse includes a mechanical letter-by-letter transliteration into International Phonetic Alphabet
 - **Simple Navigation**: Navigate between surahs using Previous/Next links and the main index
@@ -32,9 +34,17 @@ To view the website locally:
 
 The IPA transliteration is NOT a pronunciation guide. Rather, it is a mechanical conversion of the Arabic, letter by letter, into equivalent IPA characters. The Arabic text should be treated as primary, and the transliteration as a study aid.
 
-## Font Recommendation
+## Typography
 
-For best display of Unicode Arabic characters, we recommend using the Microsoft Arial Unicode MS font. Some fonts like Code 2000 may display certain Arabic characters as boxes.
+This website uses the **Amiri font** (أميري), a classical Arabic typeface in Naskh style designed specifically for typesetting the Qur'an. Amiri is a revival of the beautiful typeface pioneered by Bulaq Press (Amiria Press) in early 20th century Cairo.
+
+The Amiri font is included in the `fonts/` directory and is automatically loaded when you view the website. The font is licensed under the [SIL Open Font License (OFL)](fonts/OFL.txt), making it free to use and distribute.
+
+**Font Features:**
+- Classical Naskh calligraphic style
+- Optimized for Quranic text with proper diacritical marks
+- Excellent balance between traditional beauty and modern readability
+- Includes AmiriQuran variant specifically designed for Quranic verses
 
 ## Source
 

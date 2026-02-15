@@ -1,4 +1,45 @@
-body {margin-left: 20%; margin-right: 20%;}
+/* Amiri Font - Classical Arabic typeface for Quran */
+@font-face {
+  font-family: 'Amiri Quran';
+  src: url('../fonts/AmiriQuran.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amiri';
+  src: url('../fonts/Amiri-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin-left: 20%; 
+  margin-right: 20%;
+}
+
+/* Apply Amiri Quran font to Arabic text */
+body, p, h1, h2, td, div {
+  font-family: 'Amiri Quran', 'Amiri', 'Traditional Arabic', 'Arial Unicode MS', serif;
+}
+
+/* Larger font size for better readability of Arabic */
+body {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+/* Arabic text specific styling */
+[dir="rtl"], 
+p[align="RIGHT"],
+td[width="50%"]:first-child {
+  font-family: 'Amiri Quran', 'Amiri', 'Traditional Arabic', serif;
+  font-size: 24px;
+  line-height: 2;
+}
+
 span.margnote {position: absolute; left: 1%; right: 81%;}
 span.rmargnote {position: absolute; left: 81%; right: 100%;}
 span.contnote {position: absolute; left: 81%; right: 100%;}
